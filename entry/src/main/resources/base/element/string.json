@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "对照证据、加固核查位与威胁台账"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "金银湖安全中心"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "安全中心"
+    },
+    {
+      "name": "perm_bundle_reason",
+      "value": "读取笔记的安装版本，核对检测报告"
+    },
+    {
+      "name": "perm_install_reason",
+      "value": "卸载已被伪造包替换的笔记"
+    }
+  ]
+}

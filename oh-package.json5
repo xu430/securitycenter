@@ -1,0 +1,6 @@
+{
+  "modelVersion": "6.0.1",
+  "description": "金银湖安全中心。对照证据、加固核查位、威胁台账与 SBOM。",
+  "dependencies": {},
+  "devDependencies": {}
+}

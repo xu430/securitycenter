@@ -1,0 +1,1 @@
+# Release obfuscation stays off so the demo source remains reviewable.
